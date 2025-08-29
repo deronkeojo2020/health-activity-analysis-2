@@ -1,0 +1,15 @@
+,,,,,,,,,
+Date,SleepHours,BMI,RestingHR,SleepCategory,BMICategory,,,,
+2025-01-01,7,22.5,72,Normal Sleep,Normal,,,,
+2025-01-02,6,22.8,70,Normal Sleep,Normal,,,,
+2025-01-03,5,23.1,68,Poor Sleep,Normal,,,,
+2025-01-04,5.5,23.3,74,Poor Sleep,Normal,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Row Labels,Average of RestingHR,,Row Labels,Average of RestingHR,,Average of RestingHR,Column Labels,
+,Normal Sleep,71,,Normal,71,,Row Labels,Normal Sleep,Grand Total
+,Poor Sleep,71,,Grand Total,71,,Normal,72,72
+,Grand Total,71,,,,,Grand Total,72,72
